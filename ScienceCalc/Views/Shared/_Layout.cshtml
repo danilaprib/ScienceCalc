@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+
+
+    <header id="header">
+        <ul class="navigation-menu">
+            <li>
+                <a asp-controller="Home" asp-action="Index" class="navigation-item">Home</a>
+            </li>
+
+            <li>
+                <a asp-controller="Home" asp-action="Articles" class="navigation-item">Articles</a>
+            </li>
+
+            <li>
+                <a asp-controller="Home" asp-action="Tools" class="navigation-item">Tools</a>
+            </li>
+
+            <li>
+                <a asp-controller="Home" asp-action="Discussions" class="navigation-item">Discussions</a>
+            </li>
+
+            <li>
+                <a asp-controller="Home" asp-action="About" class="navigation-item">About</a>
+            </li>
+        </ul>
+
+
+
+    </header>
+
+    <div class="body">
+        @RenderBody()
+    </div>
+
+    <footer class="border-top footer text-muted" style="position: absolute">
+        <div>
+            ScienceCalc 2026 Daniil Prybyshchuk
+        </div>
+    </footer>
+</body>
+</html>

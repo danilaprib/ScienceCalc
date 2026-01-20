@@ -3,44 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\sciencecalccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\sciencecalccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\articletosubjectbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\articletosubjectbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\home\\articles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\home\\articles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\articles\\articlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\articles\\articlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\home\\discussions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\home\\discussions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\home\\tools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\home\\tools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\controllers\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\controllers\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\tools\\plots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\tools\\plots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\tools\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\tools\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\tools\\equationsolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\tools\\equationsolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\sciencecalccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\sciencecalccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\articletosubjectbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\articletosubjectbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\sciencecalc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\sciencecalc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|solutionrelative:sciencecalc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49A57E70-3572-4B63-BA87-915CCAA0E225}|ScienceCalc\\ScienceCalc.csproj|c:\\users\\danii\\desktop\\coding\\sciencecalc\\sciencecalc\\sciencecalc.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -72,104 +132,339 @@
         },
         {
           "DockedHeight": 379,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Subject.cs",
-              "RelativeDocumentMoniker": "ScienceCalc\\Data\\Subject.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Subject.cs",
-              "RelativeToolTip": "ScienceCalc\\Data\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:56:34.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticleToSubjectBridge.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
-              "RelativeDocumentMoniker": "ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
-              "RelativeToolTip": "ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:56:25.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Article.cs",
-              "RelativeDocumentMoniker": "ScienceCalc\\Data\\Article.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Article.cs",
-              "RelativeToolTip": "ScienceCalc\\Data\\Article.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:48:41.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ScienceCalc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ScienceCalc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:07:05.566Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tools.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Tools.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Home\\Tools.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Tools.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Home\\Tools.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T15:55:50.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articles.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Articles.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Home\\Articles.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Articles.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Home\\Articles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T08:23:19.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T17:14:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "ScienceCalc\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "ScienceCalc\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:23:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Discussions.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Discussions.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Home\\Discussions.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Discussions.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Home\\Discussions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T17:13:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T07:39:29.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Program.cs",
+              "RelativeDocumentMoniker": "ScienceCalc\\Program.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Program.cs",
+              "RelativeToolTip": "ScienceCalc\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:08:56.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\appsettings.json",
+              "RelativeDocumentMoniker": "ScienceCalc\\appsettings.json",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\appsettings.json",
+              "RelativeToolTip": "ScienceCalc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T19:38:48.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticlePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Articles\\ArticlePage.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Articles\\ArticlePage.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Articles\\ArticlePage.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Articles\\ArticlePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T18:44:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScienceCalc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScienceCalc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:07:05.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToolsController.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\ToolsController.cs",
+              "RelativeDocumentMoniker": "ScienceCalc\\Controllers\\ToolsController.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\ToolsController.cs",
+              "RelativeToolTip": "ScienceCalc\\Controllers\\ToolsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:00:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:59:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Tools\\Calculator.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Tools\\Calculator.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Tools\\Calculator.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Tools\\Calculator.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T16:58:23.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Plots.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Tools\\Plots.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Tools\\Plots.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Tools\\Plots.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Tools\\Plots.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T17:03:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:58:25.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquationSolver.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Tools\\EquationSolver.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Tools\\EquationSolver.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Tools\\EquationSolver.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\Tools\\EquationSolver.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T17:02:56.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ScienceCalc\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ScienceCalc\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-19T13:14:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScienceCalc.csproj",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\ScienceCalc.csproj",
+              "RelativeDocumentMoniker": "ScienceCalc\\ScienceCalc.csproj",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\ScienceCalc.csproj",
+              "RelativeToolTip": "ScienceCalc\\ScienceCalc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T19:48:04.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ScienceCalcContext.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\ScienceCalcContext.cs",
               "RelativeDocumentMoniker": "ScienceCalc\\Data\\ScienceCalcContext.cs",
               "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\ScienceCalcContext.cs",
               "RelativeToolTip": "ScienceCalc\\Data\\ScienceCalcContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T19:48:27.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ScienceCalc.csproj",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\ScienceCalc.csproj",
-              "RelativeDocumentMoniker": "ScienceCalc\\ScienceCalc.csproj",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\ScienceCalc.csproj",
-              "RelativeToolTip": "ScienceCalc\\ScienceCalc.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-18T19:48:04.484Z"
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ScienceCalc\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-19T13:03:20.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\appsettings.json",
-              "RelativeDocumentMoniker": "ScienceCalc\\appsettings.json",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\appsettings.json",
-              "RelativeToolTip": "ScienceCalc\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABhAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Article.cs",
+              "RelativeDocumentMoniker": "ScienceCalc\\Data\\Article.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Article.cs",
+              "RelativeToolTip": "ScienceCalc\\Data\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:48:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ScienceCalc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ScienceCalc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:57:46.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArticleToSubjectBridge.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
+              "RelativeDocumentMoniker": "ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
+              "RelativeToolTip": "ScienceCalc\\Data\\ArticleToSubjectBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:56:25.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Subject.cs",
+              "RelativeDocumentMoniker": "ScienceCalc\\Data\\Subject.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Data\\Subject.cs",
+              "RelativeToolTip": "ScienceCalc\\Data\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:56:34.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ScienceCalc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ScienceCalc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T19:38:48.515Z"
+              "WhenOpened": "2026-01-19T08:51:46.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "ScienceCalc.http",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\ScienceCalc.http",
               "RelativeDocumentMoniker": "ScienceCalc\\ScienceCalc.http",
@@ -181,32 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ScienceCalc\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ScienceCalc\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:11:04.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Program.cs",
-              "RelativeDocumentMoniker": "ScienceCalc\\Program.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\Program.cs",
-              "RelativeToolTip": "ScienceCalc\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:08:56.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ScienceCalc\\appsettings.Development.json",
@@ -215,18 +485,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-18T19:09:49.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "ScienceCalc\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\ScienceCalc\\ScienceCalc\\WeatherForecast.cs",
-              "RelativeToolTip": "ScienceCalc\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:08:50.796Z"
             }
           ]
         },

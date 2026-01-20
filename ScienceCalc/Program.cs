@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using ScienceCalc.Data;
+
 namespace ScienceCalc
 {
     public class Program
@@ -7,27 +10,36 @@ namespace ScienceCalc
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // Add services
+            builder.Services.AddControllersWithViews();
 
-            builder.Services.AddControllers();
+            builder.Services.AddDbContext<ScienceCalcContext>(opt =>
+                opt.UseNpgsql(builder.Configuration.GetConnectionString("ScienceCalcDb"))
+            );
 
-
-            builder.Ser
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-            builder.Services.AddOpenApi();
+            builder.Services.AddOpenApi(); // whatever OpenAPI lib you're using
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+            // Only in development: open OpenAPI UI
             if (app.Environment.IsDevelopment())
             {
-                app.MapOpenApi();
+                app.MapOpenApi(); // or app.UseSwagger + app.UseSwaggerUI based on library
             }
 
+            // Standard middleware order
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
+
+            app.UseRouting();
 
             app.UseAuthorization();
 
+            // Map routes after UseRouting/UseAuthorization
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}"
+            );
 
             app.MapControllers();
 

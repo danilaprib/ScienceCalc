@@ -1,0 +1,20 @@
+﻿
+@model IEnumerable<Article>
+
+@{
+    ViewData["Title"] = "Articles";
+}
+
+
+<ul>
+    @if (Model != null)
+    {
+        @foreach (var article in Model)
+        {
+            <li>
+                <a asp-controller="Articles" asp-action="ArticlePage" asp-route-id="@article.id">@article.title</a>
+
+            </li>
+        }
+    }
+</ul>
